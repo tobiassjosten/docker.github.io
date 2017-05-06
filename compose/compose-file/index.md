@@ -400,7 +400,7 @@ The following sub-options (supported for `docker compose up` and `docker compose
 - [cgroup_parent](#cgroup-parent)
 - [container_name](#containername)
 - [devices](#devices)
-- [dns](#devices)
+- [dns](#dns)
 - [dns_search](#dnssearch)
 - [tmpfs](#tmpfs)
 - [external_links](#externallinks)
